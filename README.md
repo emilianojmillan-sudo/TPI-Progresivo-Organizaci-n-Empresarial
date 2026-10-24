@@ -25,8 +25,10 @@ Indicadores de Control definidos:
 - Indicador: porcentaje del tiempo en que el sistema está operativo durante los horarios previstos de uso.
 - Estándar propuesto: disponibilidad mínima del 99 % durante esos horarios.
 
-Declaración de uso de Inteligencia Artificial
+## Declaración de uso de Inteligencia Artificial
 
-Se utilizó ChatGPT como herramienta de apoyo durante la elaboración del proyecto. Su asistencia permitió organizar las ideas iniciales, mejorar la redacción y estructurar las historias de usuario siguiendo el formato solicitado. También se utilizó como guía para comprender y realizar algunas tareas de organización del repositorio en GitHub, como la creación de ramas, los commits, las solicitudes de incorporación de cambios (Pull Requests) y la configuración del tablero de seguimiento.
+Durante la elaboración de este proyecto se utilizó ChatGPT como herramienta de apoyo para organizar ideas, mejorar la redacción, estructurar las historias de usuario y comprender el uso de herramientas de GitHub, como las ramas, los commits, los Pull Requests y el tablero de gestión.
 
-Las propuestas generadas mediante IA fueron revisadas y adaptadas al funcionamiento del sistema de permisos de trabajo planteado para el proyecto. Las decisiones finales y la revisión del contenido corresponden a mi persona.
+La inteligencia artificial también se utilizó como guía para revisar la organización del proyecto y evaluar propuestas de indicadores de control y estándares de desempeño. Su asistencia permitió aclarar conceptos, identificar aspectos que podían mejorarse y avanzar paso a paso en tareas que inicialmente resultaban desconocidas.
+
+Las respuestas y propuestas generadas mediante IA fueron revisadas y adaptadas según las necesidades del proyecto. El análisis del proceso de permisos de trabajo, la identificación de sus dificultades y las decisiones sobre la solución propuesta se basaron en el conocimiento del caso estudiado y en mi criterio personal. La IA se utilizó como herramienta de consulta y aprendizaje, sin reemplazar mi participación en el análisis ni mi responsabilidad sobre el contenido final.
