@@ -32,3 +32,14 @@ Durante la elaboración de este proyecto se utilizó ChatGPT como herramienta de
 La inteligencia artificial también se utilizó como guía para revisar la organización del proyecto y evaluar propuestas de indicadores de control y estándares de desempeño. Su asistencia permitió aclarar conceptos, identificar aspectos que podían mejorarse y avanzar paso a paso en tareas que inicialmente resultaban desconocidas.
 
 Las respuestas y propuestas generadas mediante IA fueron revisadas y adaptadas según las necesidades del proyecto. El análisis del proceso de permisos de trabajo, la identificación de sus dificultades y las decisiones sobre la solución propuesta se basaron en el conocimiento del caso estudiado y en mi criterio personal. La IA se utilizó como herramienta de consulta y aprendizaje, sin reemplazar mi participación en el análisis ni mi responsabilidad sobre el contenido final.
+
+# Requisitos de Entorno
+
+*Para ejectuar este proyecto se necesita:*
+- Editor Visual Studio Code
+- Librería de funciones del programa:
+```bash
+  from TPI-Progresivo-Organizaci-n-Empresarial import funciones
+```
+
+
